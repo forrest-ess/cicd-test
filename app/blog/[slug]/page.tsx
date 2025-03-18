@@ -12,6 +12,6 @@ export default function Page({ params }: Params) {
   return <>
     <h1>Slug: {params.slug}</h1>
     <p>hello test</p>
-    <p>welcome to saigon</p>
+    <p>welcome to saigonaa</p>
   </>;
 }
